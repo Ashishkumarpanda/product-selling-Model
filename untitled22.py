@@ -7,8 +7,8 @@ Original file is located at
     https://colab.research.google.com/drive/1ASmDvDpkFssgo0Gq4BtpWYDBIEDnkPGs
 """
 
-from google.colab import files
-a=files.upload()
+#from google.colab import files
+#a=files.upload()
 
 import pandas as pd
 from sklearn.preprocessing import StandardScaler
