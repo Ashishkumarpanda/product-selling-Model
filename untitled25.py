@@ -7,8 +7,8 @@ Original file is located at
     https://colab.research.google.com/drive/1i2MX0lfOQ6sw4hBcedhz157hSDqg8rzk
 """
 
-from google.colab import files
-a=files.upload()
+#from google.colab import files
+#a=files.upload()
 
 import pandas as pd
 from sklearn.model_selection import train_test_split
